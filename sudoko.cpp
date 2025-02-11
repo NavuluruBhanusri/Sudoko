@@ -2,9 +2,6 @@
 //Time Complexity O(81)
 //Space Complexity O(81)
 
-//Hemanth Kumar Yerramasu
-//8639387491
-//hemanthkumaryaramasu@gmail.com
 #include <iostream>
 #include <vector>
 #include <string>
